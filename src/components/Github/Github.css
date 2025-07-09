@@ -1,0 +1,99 @@
+.github_data{
+  background-color: black;
+  margin-top: 3%;
+}
+.github_data img{
+  width: 20%;
+}
+
+
+.mystatistics-card {
+    width: 92%;
+    /* margin: 1rem 0; */
+    display: flex;
+    margin: auto;
+    justify-content: space-evenly;
+    align-items: center;
+  }
+  .mystatistics-card div img{
+    width: 100%;
+    
+  }
+
+.calender {
+    width: 90%;
+    color: white;
+    margin-top: 3%;
+    margin-bottom: 1rem; 
+    margin: auto; 
+  }
+  /* .react-activity-calendar
+  {
+    width: 100%;
+    margin: auto;
+    height: 50%;
+  } */
+  .position-relative {
+    padding: 5px;
+  }
+  .contrib-number {
+    color: skyblue;
+  }
+
+  @media only screen and (max-width : 1024px){
+
+    .mystatistics-card {
+      width: 90%;
+      /* margin: 3rem 0; */
+      display: flex;
+      /* flex-direction: column; */
+      align-items: center;
+      gap:10px;
+      margin: auto;
+      justify-content: space-evenly;
+    align-items: center;
+    }
+
+   
+    
+   
+   
+}
+
+  @media only screen and (max-width : 720px){
+
+    .mystatistics-card {
+      width: 80%;
+      /* margin: 3rem 0; */
+      /* display: flex; */
+      flex-direction: column;
+      align-items: center;
+      gap:10px;
+      margin: auto;
+      justify-content: space-evenly;
+    align-items: center;
+    }
+   
+    
+   
+   
+}
+
+@media only screen and (max-width : 512px){
+
+  .mystatistics-card {
+    width: 70%;
+    /* margin: 3rem 0; */
+    /* display: flex; */
+    flex-direction: column;
+    align-items: center;
+    gap:10px;
+    margin: auto;
+    justify-content: space-evenly;
+    align-items: center;
+  } 
+  
+   
+
+}
+

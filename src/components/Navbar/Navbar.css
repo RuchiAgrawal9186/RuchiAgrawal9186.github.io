@@ -1,0 +1,117 @@
+.header{
+    display: flex;
+    background-color: black;
+    justify-content: space-between;
+    flex: 1;
+    padding: 12px;
+    /* width: 100%; */
+    right: 0;
+    left:0;
+    /* position: relative; */
+    /* parent position */
+    align-items: center;
+    border: 1px solid blue;
+    position: fixed; 
+    color:white;
+    /* position: sticky;  */
+    /* overflow: hidden; */
+    /* position: sticky; */
+    top:0;
+
+    z-index: 1000;
+
+    /* vertically center */
+
+}
+.menu{
+    /* background-color: white; */
+    display: flex;
+    /* color:white; */
+    flex: 1;
+    justify-content: flex-end;
+}
+.menu-icon{
+    font-size: 24px;
+}
+.mobile-menu{
+    display: none;
+}
+.web-menu{
+    display: flex;
+}
+
+.logo{
+    display: flex;
+    justify-content:space-evenly;
+    /* background-color: red; */
+    gap:5px;
+    width:10%;
+    align-items: center;
+    padding-left: 1%;
+}
+.logo div{
+    font-size: 1.2rem;
+    font-weight: 500;
+
+}
+.logo img{
+    width: 30%;
+    border-radius: 100%;
+}
+
+
+@media only screen and (max-width : 720px){
+
+    .mobile-menu{
+        display: flex;
+    }
+    .web-menu{
+        display: none;
+    }
+    .logo div{
+        font-size: 1.5rem;
+        font-weight: 500;
+    }
+    .logo{
+        display: flex;
+        justify-content:space-evenly;
+        /* background-color: red; */
+        gap:5px;
+        width:10%;
+        align-items: center;
+        padding-left: 3%;
+    }
+    .logo img{
+        width: 60%;
+        border-radius: 100%;
+    }
+      
+        
+}
+    
+@media only screen and (max-width : 512px){
+    .mobile-menu{
+        display: flex;
+    }
+    .web-menu{
+        display: none;
+    }
+    .logo div{
+        font-size: 1.5rem;
+        font-weight: 500;
+    }
+    .logo{
+        display: flex;
+        justify-content:space-evenly;
+        /* background-color: red; */
+        gap:5px;
+        width:10%;
+        align-items: center;
+        padding-left: 10%;
+    }
+    .logo img{
+        width: 70%;
+        border-radius: 100%;
+    }
+        
+}

@@ -1,0 +1,42 @@
+[
+    
+    {
+        "title": "Shayri Generator",
+        "image": "./images/shayrigenerate.PNG",
+        "description": "This project is generate shyari with help of provided keyword  user selected language",
+        "technologies": "HTML | CSS | JavaScript | Nodejs | Express.js | chatgpt-api ",
+        "github": "https://github.com/RuchiAgrawal9186/Shayari_Generator",
+        "deployed": "https://shayrigenerater.vercel.app/",
+        "id": 1
+
+    },
+    {
+        "title": "Code Converter ",
+        "image": "./images/codeconverter.PNG",
+        "description": "This project is helpful to conevert code from one programing language to another selected programing language,debugging the code and check the efficiency of the code as well",
+        "technologies": "HTML | CSS | JavaScript | Nodejs | Express.js | chatgpt-api ",
+        "github": "https://github.com/RuchiAgrawal9186/codeConverter_bakend",
+        "deployed": "https://codecoverter.vercel.app/",
+        "id": 2
+    },
+    {
+        "title": "Your-GPT",
+        "image": "./images/yourgpt.PNG",
+        "description": "It is helpful tool like (chatgpt) with help we can summarixe text, generate paragraph, generate code in javascript , chat with you like (ChatBot) and generate SCI-FI images ",
+        "technologies": "HTML | CSS | JavaScript | React | Nodejs | Express.js | MongoDB | chatgpt-api ",
+        "github": "https://github.com/RuchiAgrawal9186/Your-GPT",
+        "deployed": "https://yourgpt-kappa.vercel.app/",
+        "id": 3
+    },
+    {
+        "title": "Tasty Food",
+        "image": "./images/tastyfood.PNG",
+        "description": "It is kinf of food application/site where you can perform CRUD operation like (Add Dish, Show all Menu items , Update Dish ,delete Dish) and check order status as well",
+        "technologies": "HTML | CSS | JavaScript | Python | Django | BootStarp",
+        "github": "https://github.com/RuchiAgrawal9186/TastyFood",
+        "deployed": "https://www.youtube.com/watch?v=2Nsk40jqNrw",
+        "id": 4
+
+    }
+    
+]

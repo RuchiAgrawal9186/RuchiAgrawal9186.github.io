@@ -1,0 +1,62 @@
+html,body{
+    scroll-behavior: smooth;  
+    overflow-x: hidden;
+    /* its fro scrolling down when click on navigation section */
+}
+
+#home{
+
+    display:flex;
+    flex-direction: column;
+    width: 100%;
+    margin: auto;
+    background-color: black;
+    color: white;
+padding-top: 40px;
+}
+.banner_img {
+  width: 100%;
+  position: relative;
+}
+.banner_img img{
+  width: 100%;
+}
+.text{
+  width:40%;
+  /* border: 1px solid white; */
+  position: absolute;
+  justify-content: center;
+  align-items: center;
+  left:5%;
+  top:15%;
+  /* margin: auto; */
+  flex-direction: column;
+
+}
+.text h1 {
+  color: white;
+  font-size: 50px;
+  font-weight: 800;
+}
+.text p {
+  color: white;
+  font-size: 24px;
+}
+
+@media only screen and (max-width : 1024px){
+
+#home{
+  width:100%;
+}   
+
+
+    
+}
+
+@media only screen and (max-width : 512px){
+    #home{
+        width:100%;
+      } 
+
+     
+}

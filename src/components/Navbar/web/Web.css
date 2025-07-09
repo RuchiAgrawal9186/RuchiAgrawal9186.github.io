@@ -1,0 +1,25 @@
+
+.web div{
+    display: flex;
+    flex:1;
+    align-items: center;
+    z-index: 1;
+    /* background-color: black; */
+
+}
+.web-option div{
+    font-size: 1.2rem;
+    margin-right: 18px;
+    font-weight: 400;
+
+}
+.web-option a{
+    text-decoration: none;
+    color: white;
+    display: flex;
+    align-items: center;
+
+}
+.web-option:last-child{
+    margin-right: 0px;
+}
