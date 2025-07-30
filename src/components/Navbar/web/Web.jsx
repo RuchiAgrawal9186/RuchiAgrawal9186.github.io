@@ -44,7 +44,7 @@ const Web = () => {
           >
             {" "}
             <a
-              href='href="https://drive.google.com/uc?export=download&id=1xDygTcnSEOTMcLW0Q_DY8_iVT_U6V9TG"'
+              href="https://drive.google.com/uc?export=download&id=1xDygTcnSEOTMcLW0Q_DY8_iVT_U6V9TG"
               // href="./Ruchi-Agrawal-Resume.pdf"
               id="resume-link-1"
               download
