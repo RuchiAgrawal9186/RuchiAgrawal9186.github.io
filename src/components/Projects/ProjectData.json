@@ -1,7 +1,7 @@
 [
   {
     "title": "NetflixGPT",
-    "image": "./images/NetflixGPT.png",
+    "image": "./images/NetflixGPT.PNG",
     "description": "This project It allows users to sign up, log in, explore movie categories (Now Playing, Popular, Top Rated, Upcoming), and get AI-powered movie recommendations — all in a sleek Netflix-style UI.",
     "technologies": "HTML | CSS | JavaScript | React | Redux-Toolkit | Tailwind-css ",
     "github": "https://github.com/RuchiAgrawal9186/NetflixGPT",
@@ -10,7 +10,7 @@
   },
   {
     "title": "ZeeTube",
-    "image": "./images/ZeeTube.png",
+    "image": "./images/ZeeTube.PNG",
     "description": "This project ZeeTube allows you to explore videos, view details, check comments, and even enjoy a simulated live chat experience — all wrapped in a responsive UI.",
     "technologies": "HTML | CSS | JavaScript | React | Redux-Toolkit | Tailwind-css ",
     "github": "https://github.com/RuchiAgrawal9186/ZeeTube",
@@ -19,7 +19,7 @@
   },
   {
     "title": "YourBuddy",
-    "image": "./images/YourBuddy.png",
+    "image": "./images/YourBuddy.PNG",
     "description": "This project It listens to your voice, sends the query to Gemini (gemini-2.5-flash), and speaks the response back using the browser’s Speech Recognition and Speech Synthesis APIs",
     "technologies": "HTML | CSS | JavaScript | React | gemini-api ",
     "github": "https://github.com/RuchiAgrawal9186/YourBuddy",
