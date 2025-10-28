@@ -1,52 +1,75 @@
 [
-    
-    {
-        "title": "Expense-Tracker",
-        "image": "./images/expensetracker.PNG",
-        "description": "This project provides users with an easy way to manage their income and expenses. It displays financial data in tables and charts, allowing users to effectively monitor their finances.",
-        "technologies": "HTML | CSS | JavaScript | React | Nodejs | Express.js | MongoDB | Bootstarp ",
-        "github": "https://github.com/RuchiAgrawal9186/Expense-Tracker",
-        "deployed": "https://expense-tracker-black-sigma.vercel.app/",
-        "id": 1
-
-    },
-    {
-        "title": "Fitness First - Gym website ",
-        "image": "./images/fitnessfirst.PNG",
-        "description": "It is Gym website where user can join to the membership and choose different type exercise from different types of exercise categories",
-        "technologies": "HTML | CSS | JavaScript | React | Redux | JSON server | API ",
-        "github": "https://github.com/RuchiAgrawal9186/adorable-parcel-2719",
-        "deployed": "https://fitness-first-mu.vercel.app/",
-        "id": 2
-    },
-    {
-        "title": "FashionIcon - ZARA clone",
-        "image": "./images/zara.PNG",
-        "description": "An E-Commerce website where users can buy different products from different category like Men,Women,kids etc.",
-        "technologies": "HTML | CSS | JavaScript | React | JSON server | Chakra UI | API ",
-        "github": "https://github.com/RuchiAgrawal9186/ZARA_clone",
-        "deployed": "https://zaraclone-ten.vercel.app/",
-        "id": 3
-    },
-    {
-        "title": "Savari - Uber Clone",
-        "image": "./images/savari.PNG",
-        "description": "Clone of Uber app.It is a platform where you can book the cab/ride from any location all over the world.",
-        "technologies": "HTML | CSS | JavaScript | React | Nodejs | Express.js | MongoDB | Chakra UI",
-        "github": "https://github.com/RuchiAgrawal9186/Uber_Project",
-        "deployed": "https://savariapp.netlify.app/",
-        "id": 4
-
-    },
-    {
-        "title": "Shopping Zone - bloomingdales Clone",
-        "image": "./images/boomindales.PNG",
-        "technologies": "HTML | CSS | JavaScript | JSON Server",
-        "description": "It is an e-commerce website to purchase clothing and fashion accessories for women, men kids.",
-        "github": "https://github.com/RuchiAgrawal9186/ShoppingZone_project",
-        "deployed": "https://shoppingzone-gold.vercel.app/",
-        "id": 5
-    }
-    
+  {
+    "title": "NetflixGPT",
+    "image": "./images/NetflixGPT.PNG",
+    "description": "This project It allows users to sign up, log in, explore movie categories (Now Playing, Popular, Top Rated, Upcoming), and get AI-powered movie recommendations — all in a sleek Netflix-style UI.",
+    "technologies": "HTML | CSS | JavaScript | React | Redux-Toolkit | Tailwind-css ",
+    "github": "https://github.com/RuchiAgrawal9186/NetflixGPT",
+    "deployed": "https://netflix-gpt-seven-ruddy.vercel.app/",
+    "id": 1
+  },
+  {
+    "title": "ZeeTube",
+    "image": "./images/ZeeTube.PNG",
+    "description": "This project ZeeTube allows you to explore videos, view details, check comments, and even enjoy a simulated live chat experience — all wrapped in a responsive UI.",
+    "technologies": "HTML | CSS | JavaScript | React | Redux-Toolkit | Tailwind-css ",
+    "github": "https://github.com/RuchiAgrawal9186/ZeeTube",
+    "deployed": "https://zee-tube-blue.vercel.app/",
+    "id": 2
+  },
+  {
+    "title": "YourBuddy",
+    "image": "./images/YourBuddy.PNG",
+    "description": "This project It listens to your voice, sends the query to Gemini (gemini-2.5-flash), and speaks the response back using the browser’s Speech Recognition and Speech Synthesis APIs",
+    "technologies": "HTML | CSS | JavaScript | React | gemini-api ",
+    "github": "https://github.com/RuchiAgrawal9186/YourBuddy",
+    "deployed": "https://your-buddy-jade.vercel.app/",
+    "id": 3
+  },
+  {
+    "title": "Expense-Tracker",
+    "image": "./images/expensetracker.PNG",
+    "description": "This project provides users with an easy way to manage their income and expenses. It displays financial data in tables and charts, allowing users to effectively monitor their finances.",
+    "technologies": "HTML | CSS | JavaScript | React | Nodejs | Express.js | MongoDB | Bootstarp ",
+    "github": "https://github.com/RuchiAgrawal9186/Expense-Tracker",
+    "deployed": "https://expense-tracker-black-sigma.vercel.app/",
+    "id": 4
+  },
+  {
+    "title": "Fitness First - Gym website ",
+    "image": "./images/fitnessfirst.PNG",
+    "description": "It is Gym website where user can join to the membership and choose different type exercise from different types of exercise categories",
+    "technologies": "HTML | CSS | JavaScript | React | Redux | JSON server | API ",
+    "github": "https://github.com/RuchiAgrawal9186/adorable-parcel-2719",
+    "deployed": "https://fitness-first-mu.vercel.app/",
+    "id": 5
+  },
+  {
+    "title": "FashionIcon - ZARA clone",
+    "image": "./images/zara.PNG",
+    "description": "An E-Commerce website where users can buy different products from different category like Men,Women,kids etc.",
+    "technologies": "HTML | CSS | JavaScript | React | JSON server | Chakra UI | API ",
+    "github": "https://github.com/RuchiAgrawal9186/ZARA_clone",
+    "deployed": "https://zaraclone-ten.vercel.app/",
+    "id": 6
+  },
+  {
+    "title": "Savari - Uber Clone",
+    "image": "./images/savari.PNG",
+    "description": "Clone of Uber app.It is a platform where you can book the cab/ride from any location all over the world.",
+    "technologies": "HTML | CSS | JavaScript | React | Nodejs | Express.js | MongoDB | Chakra UI",
+    "github": "https://github.com/RuchiAgrawal9186/Uber_Project",
+    "deployed": "https://savariapp.netlify.app/",
+    "id": 7
+  },
+  {
+    "title": "Shopping Zone - bloomingdales Clone",
+    "image": "./images/boomindales.PNG",
+    "technologies": "HTML | CSS | JavaScript | JSON Server",
+    "description": "It is an e-commerce website to purchase clothing and fashion accessories for women, men kids.",
+    "github": "https://github.com/RuchiAgrawal9186/ShoppingZone_project",
+    "deployed": "https://shoppingzone-gold.vercel.app/",
+    "id": 8
+  }
 ]
 
